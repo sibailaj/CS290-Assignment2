@@ -34,3 +34,7 @@ tfoot td {
 	color: black;
 	font-style: normal;
 }
+
+dt:hover + dd {
+	background-color: purple;
+}
